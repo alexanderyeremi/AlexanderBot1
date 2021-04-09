@@ -1,7 +1,7 @@
-# IKYBOTV6
+# AlexanderBot1
 numpang nama tidak membuatmu pro stah
 
-https://github.com/rizkiadiasa/IKYBOTV7/
+https://github.com/alexanderyeremi/AlexanderBot1
 
 
 Subscribe Iky Ads
@@ -20,8 +20,8 @@ niat
 2hp yg 1 buat scan
 download termux
 pkg install git
-git clone https://github.com/rizkiadiasa/IKYBOTV7
-cd IKYBOTV
+git clone https://github.com/alexanderyeremi/AlexanderBot1
+cd AlexanderBot1
 
 ls
 bash install.sh
